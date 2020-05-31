@@ -1,6 +1,7 @@
 # Rule34.xxx Spider
 ## 依赖库
   requests
+  
   BeautifuSoup4
 ## How to
   先输入要查找图片的关键字
