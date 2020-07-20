@@ -9,7 +9,6 @@ import requests
 import urllib3
 from bs4 import BeautifulSoup
 
-
 # 获取Respond
 def getResultPage(rule34_url, keywords, page):
     if page == 1:
